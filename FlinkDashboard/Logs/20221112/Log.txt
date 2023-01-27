@@ -1,0 +1,13 @@
+2022-11-12 03:11.26.94  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12,3 , Hum:234
+2022-11-12 03:11.38.90  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12.3 , Hum:234
+2022-11-12 03:12.03.13  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12,3 , Hum:234
+2022-11-12 03:13.56.77  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12,3 , Hum:234
+2022-11-12 03:14.02.52  [Info]    FlinkController > SendDataToServer : Received data from C01C , Temp:12,3 , Hum:234 | Average Temp: 12,3 | List3 Count:1 | List3 Last Item:12,3 | List3 First Item:12,3
+2022-11-12 03:14.14.93  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12.3 , Hum:234
+2022-11-12 03:14.20.08  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12.3 , Hum:234
+2022-11-12 03:14.24.35  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12.3 , Hum:234
+2022-11-12 03:14.29.24  [Info]    FlinkController > SendDataToServer : Received data from C01C , Temp:12.3 , Hum:234 | Average Temp: 12,3 | List3 Count:2 | List3 Last Item:12,3 | List3 First Item:12,3
+2022-11-12 03:14.42.32  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12.3 , Hum:234
+2022-11-12 03:14.59.09  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:12,3 , Hum:234
+2022-11-12 03:15.18.50  [Warning]    FlinkController > SendDataToServer : (WILL NOT BE CALCULATED) Received data from C01C , Temp:15555,3 , Hum:234
+2022-11-12 03:15.28.00  [Info]    FlinkController > SendDataToServer : Received data from C01C , Temp:15555,3 , Hum:234 | Average Temp: 5193,3 | List3 Count:3 | List3 Last Item:15555,3 | List3 First Item:12,3
